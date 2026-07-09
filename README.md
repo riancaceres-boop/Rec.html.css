@@ -13,9 +13,9 @@
         /* --- RESET E VARIÁVEIS (DESIGN EMPÁTICO) --- */
         :root {
             --bg-principal: #f4f7f6;
-            --texto-escuro: #2c3e50;
-            --cor-empatia: #6c5ce7; /* Roxo suave - escuta, profundidade */
-            --cor-cooperacao: #00b894; /* Verde-água - união, crescimento */
+            --texto-escuro: #0080ff;
+            --cor-empatia: #1c135f; /* Roxo suave - escuta, profundidade */
+            --cor-cooperacao: #04ffcd; /* Verde-água - união, crescimento */
             --cor-card-bg: #ffffff;
             --transicao: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
         }
